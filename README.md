@@ -4,6 +4,10 @@ This repo contains support files for the academic group project concluded for:
 - class: CSSE5545 (Advanced Computer Security)
 - Proffessor: Dr. Mustafa Saed
 - Program: Vehicle Cyber Engineering certificate/Master's degree
+- Students:
+-    Anjitha Gigi Poovathinkal (https://www.linkedin.com/in/anjithagigi/)
+-    Max Seenisamy (https://www.linkedin.com/in/max-seenisamy-ba9a72212/)
+-    Thiago Quinelato (https://www.linkedin.com/in/thiagoquinelato/)
 
 This repo contains the second round of scripts generated for the IDS tool to run in the Raspeberry Pi.
 
